@@ -22,4 +22,4 @@ KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
 })
 ```
 
-Please go to [official website of kalender jawa](https://kalenderjawa.dev/api/) for other API documentation.
+Please go to [official website of kalender jawa](https://kalenderjawa.dev/api/) for other API usage and documentation.
