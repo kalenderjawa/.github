@@ -1,5 +1,6 @@
+This is dedicated repository for the development of digital Javanese Calendar. 
 
-[Pustaka Kalender Jawa](https://github.com/kalenderjawa)
+[Pustaka Kalender Jawa](https://github.com/kalenderjawa/pustaka)
 
 **Pustaka** is JavaScript library for Javanese Calendar, this calendar is moon based calendar system and has been used by Javanese for many purposes in daily life till these days since 14th century.
  
