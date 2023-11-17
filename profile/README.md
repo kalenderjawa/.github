@@ -11,7 +11,7 @@ This is dedicated repository for the development of digital Javanese Calendar.
 
 Javanese calendar is an arithmetic-based calendar and passed from generation to the next generation by math formulas. Ironically not so many new generations know or are aware of the knowledge.
 
-![Javanese Calendar Math Formula](https://cdn.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
+![Javanese Calendar Math Formula](https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
 [(*sumber gambar*)](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
 
 API
