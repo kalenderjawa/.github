@@ -1,22 +1,21 @@
-This is dedicated repository for the development of digital Javanese Calendar. 
+Iki dipersembahake kanggo repositori pangembangan Kalender Jawa digital.
 
 [Pustaka Kalender Jawa](https://github.com/kalenderjawa/pustaka)
 
-**Pustaka** is JavaScript library for Javanese Calendar.
+**Pustaka** iku perpustakaan JavaScript kanggo Kalender Jawa.
 
-> Javanese calendar is a moon-based calendar system. Javanese using it for many purposes in daily life till these days since the 14th century.
+> Kalender Jawa iku sistem kalender adhedhasar bulan. Wong Jawa nggunakake iki kanggo akeh tujuan ing urip saben dina nganti saiki wiwit abad kaping 14.
 
- 
-**Javanese Calendar Math Formula**
+**Rumus Matematika Kalender Jawa**
 
-Javanese calendar is an arithmetic-based calendar and passed from generation to the next generation by math formulas. Ironically not so many new generations know or are aware of the knowledge.
+Kalender Jawa adhedhasar matematika lan dilestarikake saka generasi menyang generasi liwat rumus matematika. Ironis, ora akeh generasi anyar sing ngerti utawa sadhar babagan ilmu iki.
 
-![Javanese Calendar Math Formula](https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
+![Rumus Matematika Kalender Jawa](https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
 [(*sumber gambar*)](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
 
-API
+## API
 
-The API is easy to use for example if you want to know what the math formula month of `romadon` on javanese year 1952,
+API iki gampang digunakake umpamane yen sampeyan pengin ngerti rumus matematika sasi `romadon` ing taun Jawa 1952,
 
 ```javascript
 KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
@@ -25,4 +24,4 @@ KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
 })
 ```
 
-Please go to [official website of kalender jawa](https://kalenderjawa.dev/api/) for other API usage and documentation.
+Mangga mriksa [situs resmi kalender jawa](https://kalenderjawa.dev) kanggo panggunaan API lan dokumentasi liyane.
