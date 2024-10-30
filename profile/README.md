@@ -24,4 +24,4 @@ KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
 })
 ```
 
-Mangga mriksa [situs resmi kalender jawa](https://kalenderjawa.dev) kanggo panggunaan API lan dokumentasi liyane.
+
