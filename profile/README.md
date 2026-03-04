@@ -30,9 +30,7 @@ console.log(`${data.rumus.wulan.wulan}_${data.rumus.dino}_${data.rumus.pasaran}`
 
 ## **MacOS Menu Bar App**
 
-[Dinten Jawa](https://dintenjawa-web.vercel.app/)
-
-**Dinten Jawa** is a macOS Menu Bar App for the Javanese Calendar.
+**[Dinten Jawa](https://dintenjawa-web.vercel.app/)** is a macOS Menu Bar App for the Javanese Calendar.
 
 ![Dinten Jawa](./dintenjawa.jpeg)
 
