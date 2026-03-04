@@ -1,27 +1,30 @@
-Iki dipersembahake kanggo repositori pangembangan Kalender Jawa digital.
+This is dedicated to the development repository of the digital Javanese Calendar.
 
-[Pustaka Kalender Jawa](https://github.com/kalenderjawa/pustaka)
+[Javanese Calendar Library](https://github.com/kalenderjawa/pustaka)
 
-**Pustaka** iku perpustakaan JavaScript kanggo Kalender Jawa.
+**Pustaka** is a JavaScript library for the Javanese Calendar.
 
-> Kalender Jawa iku sistem kalender adhedhasar bulan. Wong Jawa nggunakake iki kanggo akeh tujuan ing urip saben dina nganti saiki wiwit abad kaping 14.
+> The Javanese Calendar is a lunar-based calendar system. Javanese people have used it for many purposes in daily life up to the present day since the 14th century.
 
-**Rumus Matematika Kalender Jawa**
+**Mathematical Formula of the Javanese Calendar**
 
-Kalender Jawa adhedhasar matematika lan dilestarikake saka generasi menyang generasi liwat rumus matematika. Ironis, ora akeh generasi anyar sing ngerti utawa sadhar babagan ilmu iki.
+The Javanese Calendar is based on mathematics and has been preserved from generation to generation through mathematical formulas. Ironically, not many of the younger generation know or are aware of this knowledge.
 
-![Rumus Matematika Kalender Jawa](https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
-[(*sumber gambar*)](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
+![Mathematical Formula of the Javanese Calendar](https://assets.caknun.com/media/2019/01/20190102-menek-kalender-4.jpg)
+
+[(*image source*)](https://www.caknun.com/2019/kalender-jowo-digowo-kalender-arab-digarap-kalender-barat-diruwat)
 
 ## **API**
 
-API iki gampang digunakake umpamane yen sampeyan pengin ngerti rumus matematika sasi `romadon` ing taun Jawa 1952,
+This API is easy to use. For example, if you want to find the mathematical formula for the month `romadon` in the Javanese year 1952:
 
 ```javascript
 KalenderJawa.cariRumusAbadiAwalBulanTahunJawa('romadon', 1952).then(data => {
-  console.log(`${data.rumus.wulan.wulan}_${data.rumus.dino}_${data.rumus.pasaran}`)
-  // romadon_7_4 (don tu pat)
+
+console.log(`${data.rumus.wulan.wulan}_${data.rumus.dino}_${data.rumus.pasaran}`)
+
+// romadon_7_4 (don tu pat)
+
 })
 ```
-
 
